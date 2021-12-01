@@ -1,5 +1,5 @@
 # popov-morsa-task
-
-вывод справки: main.py -h
-примеры запуска: main.py --ram
+\n
+вывод справки: main.py -h\n
+примеры запуска: main.py --ram\n
                  main.py --fileName fileName.txt --size 1
